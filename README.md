@@ -28,8 +28,8 @@
 <br />
 
 <div align="center" style="display: flex; justify-content: space-around;">
-  <img width="41.7%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Hotfirenet&layout=compact&langs_count=8&bg_color=0d1117&text_color=E5E7EB'/>
-  <img width="57.7%" src='https://github-readme-stats.vercel.app/api?username=Hotfirenet&count_private=true&bg_color=0d1117&text_color=E5E7EB'/>
+  <img width="41.7%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Hotfirenet&layout=compact&langs_count=8&text_color=E5E7EB'/>
+  <img width="57.7%" src='https://github-readme-stats.vercel.app/api?username=Hotfirenet&count_private=true&ext_color=E5E7EB'/>
 </div>
 
 ### Connect with me:
