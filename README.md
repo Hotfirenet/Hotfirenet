@@ -1,4 +1,4 @@
-## Hi there, I'm [Johan][Github Page] 👋
+## Hi there, I'm [Johan][Github Page] 👋🇫🇷
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhotfirenet.com&label=hotfirenet.com)
 
@@ -17,7 +17,20 @@
 <br />
 <br />
 
----
+## I'm actually learning 
+<p>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+<br />
+<br />
+<br />
+<br />
+
+<div align="center" style="display: flex; justify-content: space-around;">
+  <img width="41.7%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Hotfirenet&layout=compact&langs_count=8&bg_color=0d1117&text_color=E5E7EB'/>
+  <img width="57.7%" src='https://github-readme-stats.vercel.app/api?username=Hotfirenet&count_private=true&bg_color=0d1117&text_color=E5E7EB'/>
+</div>
 
 ### Connect with me:
 
