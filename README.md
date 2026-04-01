@@ -30,7 +30,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hotfirenet&layout=compact&langs_count=10&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hotfirenet&theme=github_dark" />
   <br /><br />
   <img src="https://streak-stats.demolab.com/?user=Hotfirenet" />
 </div>
